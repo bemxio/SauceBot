@@ -1,0 +1,4 @@
+token: "<YOUR_DISCORD_TOKEN_HERE>"
+api-key: "<YOUR_SAUCENAO_APIKEY_HERE>"
+nsfw-only: 1
+prefix: "!"
